@@ -1,0 +1,39 @@
+#first {
+    color: red;
+}
+#second {
+    color:blue;
+}
+#third {
+    color:green;
+}
+#fourth {
+    font-size: 50px;
+}
+#fifth {
+    font-size: 10px;
+}
+#sixth {
+    text-align: center;
+}
+#seventh {
+    font-weight: bold;
+}
+#eight {
+    font-family: fantasy;
+}
+#nine {
+    font-size: 50px; 
+    color: orange; 
+    font-weight: bold;
+}
+.styledFont {font-style: oblique; 
+    color: green;
+}
+#styledImage {
+    border-width: 15px; 
+    border-style: solid;
+    background-color: orange;
+    border-style: ridge;
+    border-color: purple;
+}
